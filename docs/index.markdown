@@ -1,4 +1,7 @@
 ---
-title: test
-description: test
+layout: page
+title: About
+permalink: /about/
 ---
+
+This is the base index
